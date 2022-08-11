@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\sambit.pradhan\\Desktop\\My Projects\\Android Project\\Advance PDF App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-he\\values-he.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\sambit.pradhan\\.gradle\\caches\\transforms-2\\files-2.1\\87f06cf9f380a032178b503e7c6aba7d\\jetified-zxing-android-embedded-3.4.0\\res\\values-he\\values-he.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,111,161,296",
+                        "endColumns": "55,49,134,89",
+                        "endOffsets": "106,156,291,381"
+                    },
+                    "to": {
+                        "startLines": "11,12,13,14",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "654,710,760,895",
+                        "endColumns": "55,49,134,89",
+                        "endOffsets": "705,755,890,980"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\sambit.pradhan\\.gradle\\caches\\transforms-2\\files-2.1\\e0a83fed7ed0ff90572f030a6fa2cc64\\jetified-android-image-cropper-2.7.0\\res\\values-he\\values-he.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,146,193,247,301,375,446,523,585",
+                        "endColumns": "90,46,53,53,73,70,76,61,68",
+                        "endOffsets": "141,188,242,296,370,441,518,580,649"
+                    }
+                }
+            ]
+        }
+    ]
+}

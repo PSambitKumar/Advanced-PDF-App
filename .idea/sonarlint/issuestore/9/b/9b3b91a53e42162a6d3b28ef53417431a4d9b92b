@@ -1,0 +1,5 @@
+
+t	java:S1150"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(â‚†ôøÿÿÿÿ
+=
+java:S1075¥"&Remove this hard-coded path-delimiter.(¬Ò°Õ
+t	java:S115/"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ô¹±Îþÿÿÿÿ
